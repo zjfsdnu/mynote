@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "九田/data.argmax 的 axis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "data.argmax 的 axis"
             }
           }
         ]
@@ -187,8 +187,10 @@
   "active": "d4ef5adcc1d5923d",
   "lastOpenFiles": [
     "a.md",
+    "九田/data.argmax 的 axis.md",
+    "九田",
+    "README.md",
     "未命名.base",
-    "你好.md",
-    "README.md"
+    "你好.md"
   ]
 }
